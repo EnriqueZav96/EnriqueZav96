@@ -4,18 +4,7 @@
 
 ### Programmer
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&count_private=true&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark"/></td>
-    </tr>   
-  </table>
-</center>  
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=2d77bd&line=2193ff&point=ffffff&area=true&hide_border=true)
-
----
+- 👨‍💻 I’m currently programming on [Python](https://www.python.org/) for [Odoo](https://github.com/odoo/odoo) Add-Ons.
 
 ## Tecnologias🖥️
 
@@ -30,7 +19,18 @@
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-- 👨‍💻 I’m currently programming on [Python](https://www.python.org/) for [Odoo](https://github.com/odoo/odoo) Add-Ons.
+---
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&count_private=true&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark"/></td>
+    </tr>   
+  </table>
+</center>  
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=2d77bd&line=2193ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
