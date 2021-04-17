@@ -24,8 +24,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EnriqueRell&theme=dark" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EnriqueRell&theme=dark" /></td>
     </tr>   
   </table>
 </center> 
