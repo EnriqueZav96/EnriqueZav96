@@ -4,14 +4,11 @@
 
 ### Programmer
 
-<center>
-  <table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquezav96&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=enriquezav96&theme=dark&show_icons=true" /></td>
-    </tr>   
-  </table>
-</center> 
+[![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueZav96)](https://github.com/EnriqueZav96/JetPeru)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&layout=compact)](https://github.com/EnriqueZav96/JetPeru)
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 ---
 
