@@ -4,12 +4,10 @@
 
 ### Programmer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&hide=html&layout=compact&show_icons=true&theme=dark" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark" /></td>
     </tr>   
   </table>
