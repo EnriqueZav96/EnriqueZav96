@@ -24,9 +24,14 @@
 <center>
   <table>
     <tr>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark"/></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EnriqueRell&theme=dark"/></td>
-    </tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EnriqueRell&theme=dark" /></td>
+    </tr>   
+  </table>
+</center> 
+
+<center>
+  <table>
     <tr>
         <td><img width="auto" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueZav96&theme=monokai"/></td>
     </tr>
