@@ -7,13 +7,13 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&layout=compact" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&count_private=true&layout=compact&theme=dark" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark"/></td>
     </tr>   
   </table>
 </center>  
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=2d77bd&line=2193ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
