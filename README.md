@@ -36,7 +36,7 @@
 
 <h2 align='left'>#Github Points: :octocat:🏆️</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=enriquezav96&theme=onedark&margin-w=7&hide_border=true" alt="rochacbruno points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=EnriqueZav96&theme=darkhub" alt="Enrique points"/>
 </p>
 
 ---
