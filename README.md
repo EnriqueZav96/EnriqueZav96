@@ -28,9 +28,12 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark"/></td>
     </tr>   
   </table>
+  <table>
+    <tr>
+        ![Enrique's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueZav96&theme=monokai)
+    </tr>   
+  </table>
 </center>  
- 
-<span align="center">![Enrique's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueZav96&theme=monokai)</span>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=2d77bd&line=2193ff&point=ffffff&area=true&hide_border=true)
 
