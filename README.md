@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&layout=compact)](https://github.com/EnriqueZav96/JetPeru)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96)](https://github.com/EnriqueZav96/JetPeru)
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
