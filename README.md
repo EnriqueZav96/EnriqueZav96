@@ -25,6 +25,8 @@
   <table>
     <tr>
         <td><img width="auto" align="rigth" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueZav96&theme=monokai"/></td>
+    </tr>
+    <tr>
         <td><img width="auto" align="rigth" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark"/></td>
     </tr>
     <tr>
