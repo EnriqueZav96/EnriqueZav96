@@ -1,8 +1,8 @@
 # Hi 👋, I'm Carlos Enrique
-### Python Programmer
+### Programmer
 
 ```rust
-fn main() {
+main() {
 ```
 
 
