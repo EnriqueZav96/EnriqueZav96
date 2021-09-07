@@ -2,16 +2,18 @@
 
 ---
 
-#### Encuentrame en
+# About Me
+
+#### Programmer
+
+- 👨‍💻 I’m currently programming on [Python](https://www.python.org/) for [Odoo](https://github.com/odoo/odoo) Add-Ons.
+
+#### Social
 [![Instagram](https://img.shields.io/badge/EnriqueCarlo96-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enricarlo96)
 [![LinkedIn](https://img.shields.io/badge/Enrique-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-e-a28560145/)
 [![Facebook](https://img.shields.io/badge/EnriqueZav96-%2314354C.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EnriqueZav96/)
 
-### Programmer
-
-- 👨‍💻 I’m currently programming on [Python](https://www.python.org/) for [Odoo](https://github.com/odoo/odoo) Add-Ons.
-
-## Tecnologias🖥️
+#### Technologies 🖥️
 
 <p align="center">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
