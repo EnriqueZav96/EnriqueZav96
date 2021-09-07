@@ -3,7 +3,7 @@
 ---
 
 #### Encuentrame en
-[![Instagram](https://img.shields.io/badge/Enrique-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enricarlo96)
+[![Instagram](https://img.shields.io/badge/EnriqueCarlo96-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enricarlo96)
 [![LinkedIn](https://img.shields.io/badge/Enrique-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-e-a28560145/)
 
 ### Programmer
