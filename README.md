@@ -35,7 +35,7 @@
     <tr>
         <td><img width="auto" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueZav96&theme=monokai"/></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td><img width="auto" align="left" src="https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=2d77bd&line=2193ff&point=ffffff&area=true&hide_border=true"/></td>
     </tr>
     </table>
