@@ -4,17 +4,28 @@
 
 # About Me
 
-#### Programmer
+### Programmer
 
 - 👨‍💻 I’m currently programming on [Python](https://www.python.org/) for [Odoo](https://github.com/odoo/odoo) Add-Ons.
 
-#### Social
+#### I mainly use these technologies
+![Odoo](https://img.shields.io/badge/odoo-%23593d88.svg?style=for-the-badge&logo=Odoo&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Social
 [![Instagram](https://img.shields.io/badge/EnriqueCarlo96-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enricarlo96)
 [![LinkedIn](https://img.shields.io/badge/Enrique-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-e-a28560145/)
 [![Facebook](https://img.shields.io/badge/EnriqueZav96-%2314354C.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EnriqueZav96/)
 
-#### Technologies 🖥️
-
+### Technologies 
 <p align="center">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
