@@ -5,6 +5,7 @@
 #### Encuentrame en
 [![Instagram](https://img.shields.io/badge/EnriqueCarlo96-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enricarlo96)
 [![LinkedIn](https://img.shields.io/badge/Enrique-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-e-a28560145/)
+[![Facebook](https://img.shields.io/badge/EnriqueZav96-%23323330.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EnriqueZav96/)
 
 ### Programmer
 
