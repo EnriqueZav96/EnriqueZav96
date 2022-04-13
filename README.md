@@ -29,6 +29,15 @@
 ---
 
 <center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
+
+<center>
   <table>
     <tr>
         <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark" /></td>
