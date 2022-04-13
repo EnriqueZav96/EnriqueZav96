@@ -28,34 +28,36 @@
 
 ---
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueZav96&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&theme=buefy"/></td>
-    </tr>   
+<table style="border-collapse: collapse; width: 100%; height: 389px;" border="1">
+    <tbody>
+        <tr>
+            <td style="width: 59.5868%; height: auto;">
+                <img src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&theme=swift&show_icons=true"/>
+            </td>
+            <td style="width: 40.4132%; height: auto;">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueZav96&theme=default"/>
+            </td>
+        </tr>
+    </tbody>
 </table>
-</center>
 
-<center>
+<table style="border-collapse: collapse; width: 100%; height: auto;" border="1">
+    <tbody>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EnriqueRell&theme=vue&show_icons=true"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- <center>
   <table>
     <tr>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=EnriqueZav96&count_private=true&show_icons=true&theme=dark" /></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EnriqueRell&theme=dark" /></td>
-    </tr>   
-  </table>
-</center> 
-
-<center>
-  <table>
-    <tr>
-        <td><img width="auto" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueZav96&theme=monokai"/></td>
-    </tr>
-    <!-- <tr>
         <td><img width="auto" align="left" src="https://activity-graph.herokuapp.com/graph?username=enriquezav96&bg_color=000000&color=2d77bd&line=2193ff&point=ffffff&area=true&hide_border=true"/></td>
     </tr>
     </table>
-</center>  
+</center>-->
 
 ---
 
