@@ -1,8 +1,22 @@
+
+     __    __            __  __                  __       __                      __        __  __ 
+    |  \  |  \          |  \|  \                |  \  _  |  \                    |  \      |  \|  \
+    | ##  | ##  ______  | ##| ##  ______        | ## / \ | ##  ______    ______  | ##  ____| ##| ##
+    | ##__| ## /      \ | ##| ## /      \       | ##/  #\| ## /      \  /      \ | ## /      ##| ##
+    | ##    ##|  ######\| ##| ##|  ######\      | ##  ###\ ##|  ######\|  ######\| ##|  #######| ##
+    | ########| ##    ##| ##| ##| ##  | ##      | ## ##\##\##| ##  | ##| ##   \##| ##| ##  | ## \##
+    | ##  | ##| ########| ##| ##| ##__/ ##      | ####  \####| ##__/ ##| ##      | ##| ##__| ## __ 
+    | ##  | ## \##     \| ##| ## \##    ##      | ###    \### \##    ##| ##      | ## \##    ##|  \
+     \##   \##  \####### \## \##  \######        \##      \##  \######  \##       \##  \####### \##
+
+👨‍💻 Hi! my name is Carlos Enrique. I’m Software Engineer on [Odoo](https://github.com/odoo/odoo) Third Party Add-Ons CE.
+
+📫 Social:
+
+* My Facebook: [![Facebook](https://img.shields.io/badge/Enrique-%2314354C.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EnriqueZav96/)
+* My LinkedIn: [![LinkedIn](https://img.shields.io/badge/Enrique-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-e-a28560145)
+
 # About Me
-
-### Programmer
-
-- 👨‍💻 I’m currently programming on [Python](https://www.python.org/) for [Odoo](https://github.com/odoo/odoo) Add-Ons.
 
 #### I mainly use these technologies
 ![Odoo](https://img.shields.io/badge/odoo-%23593d88.svg?style=for-the-badge&logo=Odoo&logoColor=white)
@@ -17,13 +31,9 @@
 ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Social
-[![Instagram](https://img.shields.io/badge/EnriqueCarlo96-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enricarlo96)
-[![LinkedIn](https://img.shields.io/badge/Enrique-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-e-a28560145/)
-[![Facebook](https://img.shields.io/badge/EnriqueZav96-%2314354C.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EnriqueZav96/)
-
 ---
 
+# My score
 <table style="border-collapse: collapse; width: 100%; height: 389px;" border="1">
     <tbody>
         <tr>
@@ -60,12 +70,4 @@
 <h2 align='left'>#Github Points: :octocat:🏆️</h2>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=EnriqueZav96&theme=darkhub" alt="Enrique points"/>
-</p>
-
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/carlos-e-a28560145/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosenrique" height="20" width="20" /></a>
-<a href="https://www.facebook.com/EnriqueZav96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="carlosenrique" height="20" width="20" /></a>
-<a href="https://dev.to/enriquezav96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="carlosenrique" height="20" width="20" /></a>
 </p>
